@@ -13,4 +13,4 @@ Quantum Electrodynamics (QED): Interaction of light and matter, Feynman diagrams
 
 Disclaimer
 
-This repository is intended for educational purposes only. While I have made every effort to ensure the accuracy of the information, please verify specific details and consult primary sources if needed.
+This repository is intended for educational purposes only. I hope this act as a useful resource for likeminded .
